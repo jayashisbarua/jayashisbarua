@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayashisbarua&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayashisbarua&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🛠️ Contirbutions
+<summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+![](https://gssoc-dymanic-badges.vercel.app/api/jayashisbarua?year=2024Extd)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayashisbarua&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
