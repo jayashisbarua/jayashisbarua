@@ -13,8 +13,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayashisbarua&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🛠️ Contirbutions
-<summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-![](https://gssoc-dymanic-badges.vercel.app/api/jayashisbarua?year=2024Extd)
+<summary><b>GSSOC '24 Extd Badges 🪶</b></summary><br>
+
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/jayashisbarua?year=2024Extd)
+
+<summary><b>Hacktoberfest '24 Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://www.holopin.io/@jayashisbarua#badges">
+  <img src="https://github.com/jayashisbarua/jayashisbarua/blob/main/all%20badges/lvl1.jpeg" width="136px" height="136px" />
+  <img src="https://github.com/jayashisbarua/jayashisbarua/blob/main/all%20badges/lvl2.jpeg" width="136px" height="136px" />
+  <img src="https://github.com/jayashisbarua/jayashisbarua/blob/main/all%20badges/lvl3.jpeg" width="136px" height="136px" />
+  <img src="https://github.com/jayashisbarua/jayashisbarua/blob/main/all%20badges/lvl4.jpeg" width="136px" height="136px" />
+</a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayashisbarua&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
